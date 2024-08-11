@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+		<title>Omaha Riverfront Park</title>
+	</head>
+	<body>
+		<main>
+			<h1>Conagra Lake Activities</h1>
+			<section>
+				<p>With the newly renovated Omaha Riverfront District, Omahanians and tourist alike may enjoy a plethora of outdoor activities placed in the parks district. The park features campfire and hammock sits where you can get cozy with friends and lounge around in the fresh weather felt downtown and enjoy the beautiful views the lake, fountains, observation bridge overlooking the Mississippi River and archways at the park entrance with a light verandas that aluminate during night hours. </p>
+
+				<p>Also seen at the park are recreational activities such as a rink near the park entrance that serve as a rollerskating rink during the spring, summer and fall seasons and converts into an ice skating rink during the winter. A kiosk is located near the rink where you may rent skates. Another activity is a local game Called Bocce Ball. The game is similar to shuffleboard except instead of pucks, you use a Pallina Ball which is first thrown down the court by team 1 and both teams alternate throwing their Bocce Ball down on opposite ends of the court. The team closest to the Pallina ball wins points for the round, and teams can choose to knock the opponent teams ball away from the Pallina Ball.  First team to get 11 points wins the game. There are also canoes you can rent and may take around the lake as well as other activities you, friends or family can think of, the Park has ample space for anything. Fairs and events have been seen held at the park as well, so stay tuned for any upcoming events.</p>
+			</section>
+			<section>
+				<Park Photos>
+				<img src="file://Users/israelrodriguez/Documents/GitHub/Practice-Project/IMG_0992.jpeg alt="Park Entrance">
+				<img src="file://Users/israelrodriguez/Documents/GitHub/Practice-Project/IMG_1003.jpeg alt="Hammock Rest area">
+				<img src="file://Users/israelrodriguez/Documents/GitHub/Practice-Project/IMG_1026.jpeg alt="Lake view">
+				<img src="file://Users/israelrodriguez/Documents/GitHub/Practice-Project/IMG_1040.jpeg alt="Park Swings">
+			</section>
+		</main>
+	</body>
+</html>
+
