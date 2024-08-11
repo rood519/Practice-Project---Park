@@ -15,7 +15,10 @@
 			</section>
 			<section>
 				<h1>Park Photos</h1>
-				
+					<img src="file://Users/israelrodriguez/Documents/GitHub/Practice-Project/IMG_0992.jpeg alt="Park Entrance">
+					<img src="file://Users/israelrodriguez/Documents/GitHub/Practice-Project/IMG_1003.jpeg alt="Hammock Rest area">
+					<img src="file://Users/israelrodriguez/Documents/GitHub/Practice-Project/IMG_1026.jpeg alt="Lake view">
+					<img src="file://Users/israelrodriguez/Documents/GitHub/Practice-Project/IMG_1040.jpeg alt="Park Swings">
 			</section>
 		</main>
 	</body>
